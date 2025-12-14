@@ -1,21 +1,34 @@
 # Cloud Security Learning Journey
-My cloud security learning journey — networking, AWS, and security fundamentals.
 
-This repository documents my step-by-step learning journey in Cloud Security.
+Hi 👋  
+I’m a Cloud Security learner documenting my learning journey in public.
 
-## Week 1 — Networking Fundamentals
+This repository contains my notes, concepts, and projects as I build strong foundations in:
+- Networking
+- Cloud (AWS)
+- Security & DevSecOps
+
+## 📘 Learning Roadmap
+
+### Week 1 — Networking Fundamentals
 - OSI Model
 - TCP/IP Model
 - Subnetting basics
 - DNS
 - VPN
 - Firewalls
-- How local networks communicate
+- Local network communication
 
-## Goals
-- Build strong networking foundations
-- Learn AWS cloud security
-- Create hands-on projects
-- Build a public portfolio
+### Week 2 — Network Devices & IP Addressing (Coming Soon)
+- Hub, Switch, Router
+- IPv4 & IPv6
+- Public vs Private IP
+- Static vs DHCP
+- Routing basics
+
+## 🎯 Goals
+- Become a Cloud Security Engineer
+- Build hands-on AWS security projects
+- Create a strong public portfolio
 
 Learning in public 🚀
