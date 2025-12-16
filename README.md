@@ -3,10 +3,12 @@
 Hi 👋  
 I’m a Cloud Security learner documenting my learning journey in public.
 
-This repository contains my notes, concepts, and projects as I build strong foundations in:
+This repository contains my notes, concepts, and future hands-on projects as I build strong foundations in:
 - Networking
 - Cloud (AWS)
 - Security & DevSecOps
+
+---
 
 ## 📘 Learning Roadmap
 
@@ -26,9 +28,11 @@ This repository contains my notes, concepts, and projects as I build strong foun
 - Static vs DHCP
 - Routing basics
 
+---
+
 ## 🎯 Goals
 - Become a Cloud Security Engineer
 - Build hands-on AWS security projects
 - Create a strong public portfolio
 
-Learning in public 🚀
+📌 Learning in public to stay consistent and accountable.
